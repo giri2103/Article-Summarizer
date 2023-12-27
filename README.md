@@ -21,3 +21,7 @@ Well you take the URL of a lengthy article past it in the website input field an
 - Redux Toolkit
 - OpenAI API's used using Rapid API
 
+
+### Screenshot
+
+<img src="https://drive.google.com/uc?export=view&id=16L2_cIVDWMaApo5JpzJqATN2hp5nbN-t" alt="..."></img>
