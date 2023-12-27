@@ -1,8 +1,23 @@
-# React + Vite
+# SumZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Builded an Article Summarizer using OpenAI GPT model with a,
 
-Currently, two official plugins are available:
+- Modern user interface
+- Connection to OpenAI's model
+- Integration of Redux Toolkit(RTK)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Functionalities Like,
+- Copy to clipboard
+- Browser history storage
+
+### How to work,
+Well you take the URL of a lengthy article past it in the website input field and the AI will quickly provide a summary it's as simple as that
+
+
+### 🛠 Techstack used
+- ReactJS
+- Vite
+- TailwindCSS
+- Redux Toolkit
+- OpenAI API's used using Rapid API
+
